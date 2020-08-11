@@ -1,5 +1,7 @@
 # DSM 연락처
 
+<img width="216" alt="Icon-1024" src="https://user-images.githubusercontent.com/67373938/89886272-4f355b00-dc07-11ea-8769-097a95936c9f.png">
+
 ## 목적
 
 * DSM학생들이 서로 전화번호를 잘 모르는 경우가 있어, 공유 연락처를 만들어 모두가 서로 연락하는데 어려움이 없도록 한다.
